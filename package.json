@@ -1,0 +1,23 @@
+{
+  "name": "ngsi-ld_ng",
+  "version": "1.0.0",
+  "description": "This is a personal project. Some experiments about implementing NGSI-LD together with Kafka and PostGIS.",
+  "main": "index.js",
+  "dependencies": {
+    "kafka-client": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmcanterafonseca/NGSI-LD_NG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmcanterafonseca/NGSI-LD_NG/issues"
+  },
+  "homepage": "https://github.com/jmcanterafonseca/NGSI-LD_NG#readme"
+}
